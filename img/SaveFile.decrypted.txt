@@ -1,0 +1,876 @@
+{
+	"SaveVersion" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"PlayersMoney" : {
+		"__type" : "int",
+		"value" : 222222
+	},
+	"EMFReaderInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"FlashlightInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"CameraInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"LighterInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"CandleInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"UVFlashlightInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"CrucifixInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"DSLRCameraInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"EVPRecorderInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"SaltInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"SageInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"TripodInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"StrongFlashlightInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"MotionSensorInventory" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"SoundSensorInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"SanityPillsInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"ThermometerInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"GhostWritingBookInventory" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"DOTSProjectorInventory" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"ParabolicMicrophoneInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"GlowstickInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"HeadMountedCameraInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"GhostType" : {
+		"__type" : "string",
+		"value" : "Revenant"
+	},
+	"daily0" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily0Progression" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"daily0Completed" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"daily0Recieved" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily0Variant" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily1" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"daily1Progression" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"daily1Completed" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"daily1Recieved" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily3Variant" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily2" : {
+		"__type" : "int",
+		"value" : 7
+	},
+	"daily2Progression" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily2Completed" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily2Recieved" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily8Variant" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily3" : {
+		"__type" : "int",
+		"value" : 14
+	},
+	"daily3Progression" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"daily3Completed" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"daily3Recieved" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily15Variant" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"dailyChallengeSeed" : {
+		"__type" : "int",
+		"value" : 534011718
+	},
+	"weekly0" : {
+		"__type" : "int",
+		"value" : 4
+	},
+	"weekly0Progression" : {
+		"__type" : "int",
+		"value" : 5
+	},
+	"weekly0Completed" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"weekly0Recieved" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"weekly0Variant" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"weekly1" : {
+		"__type" : "int",
+		"value" : 9
+	},
+	"weekly1Progression" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"weekly1Completed" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"weekly1Recieved" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"weekly1Variant" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"weekly2" : {
+		"__type" : "int",
+		"value" : 15
+	},
+	"weekly2Progression" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"weekly2Completed" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"weekly2Recieved" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"weekly2Variant" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"weeklyDifficultyProgression" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"weeklyDifficultyCompleted" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"weeklyDifficultyRecieved" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"weeklyChallengeSeed" : {
+		"__type" : "int",
+		"value" : 1531063701
+	},
+	"RepellentTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"RepellentInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"committedRepellentAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"IgniterTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"IgniterInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"committedIgniterAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"SoundSensorTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"committedSoundSensorAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"SpiritBoxTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"SpiritBoxTierOneUnlocked" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"SpiritBoxTierOneUnlockOwned" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"SpiritBoxInventory" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"committedSpiritBoxAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"HeadGearTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"HeadGearInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"committedHeadGearAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"CrucifixTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"committedCrucifixAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"VideoCameraTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"VideoCameraTierOneUnlocked" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"VideoCameraTierOneUnlockOwned" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"VideoCameraInventory" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"committedVideoCameraAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"GhostWritingBookTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"GhostWritingBookTierOneUnlocked" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"GhostWritingBookTierOneUnlockOwned" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"committedGhostWritingBookAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"EMFReaderTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"EMFReaderTierOneUnlocked" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"EMFReaderTierOneUnlockOwned" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"committedEMFReaderAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"UVLightTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"UVLightTierOneUnlocked" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"UVLightTierOneUnlockOwned" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"UVLightInventory" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"committedUVLightAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"SaltTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"committedSaltAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"ParabolicMicrophoneTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"committedParabolicMicrophoneAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"FlashlightTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"FlashlightTierOneUnlocked" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"FlashlightTierOneUnlockOwned" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"committedFlashlightAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"TripodTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"committedTripodAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"DOTSProjectorTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"DOTSProjectorTierOneUnlocked" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"DOTSProjectorTierOneUnlockOwned" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"committedDOTSProjectorAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"ThermometerTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"ThermometerTierOneUnlocked" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"ThermometerTierOneUnlockOwned" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"committedThermometerAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"FirelightTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"FirelightInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"committedFirelightAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"MotionSensorTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"committedMotionSensorAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"PhotoCameraTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"PhotoCameraInventory" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"committedPhotoCameraAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"SanityMedicationTier" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"SanityMedicationInventory" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"committedSanityMedicationAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"LastMode" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"LastLoadout" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"Halloween2023Seen" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"RewardMultiplier" : {
+		"__type" : "float",
+		"value" : 4.45
+	},
+	"recentPlayerIDS" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		"76561199353307128"
+	]
+	},
+	"recentPlayerNames" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		"André SX"
+	]
+	},
+	"recentPlayerPlatforms" : {
+		"__type" : "System.Collections.Generic.List`1[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+		0
+	]
+	},
+	"Experience" : {
+		"__type" : "int",
+		"value" : 585
+	},
+	"amountOfBonesCollected" : {
+		"__type" : "int",
+		"value" : 11
+	},
+	"distanceTravelled" : {
+		"__type" : "float",
+		"value" : 16175.9053
+	},
+	"sanityLost" : {
+		"__type" : "float",
+		"value" : 1306.84253
+	},
+	"sanityGained" : {
+		"__type" : "float",
+		"value" : 0
+	},
+	"phrasesRecognized" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"timeSpentInvestigating" : {
+		"__type" : "float",
+		"value" : 18959.627
+	},
+	"timeSpentInDark" : {
+		"__type" : "float",
+		"value" : 6963.89746
+	},
+	"timeSpentInLight" : {
+		"__type" : "float",
+		"value" : 10930.8086
+	},
+	"timeSpentInTruck" : {
+		"__type" : "float",
+		"value" : 5184.04443
+	},
+	"timeSpentInGhostsRoom" : {
+		"__type" : "float",
+		"value" : 3838.37842
+	},
+	"timeSpentBeingChased" : {
+		"__type" : "float",
+		"value" : 34.15668
+	},
+	"diedAmount" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"moneyEarned" : {
+		"__type" : "int",
+		"value" : 2356
+	},
+	"moneySpent" : {
+		"__type" : "int",
+		"value" : 1025
+	},
+	"itemsBought" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"itemsLost" : {
+		"__type" : "int",
+		"value" : 12
+	},
+	"ghostsIdentifiedAmount" : {
+		"__type" : "int",
+		"value" : 5
+	},
+	"ghostsMisidentifiedAmount" : {
+		"__type" : "int",
+		"value" : 20
+	},
+	"objectivesCompleted" : {
+		"__type" : "int",
+		"value" : 11
+	},
+	"amountOfCursedPossessionsUsed" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"amountOfCursedHuntsTriggered" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"photosTaken" : {
+		"__type" : "int",
+		"value" : 7
+	},
+	"ghostsRepelled" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"revivedAmount" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"playedMaps" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {11:22,5:1,0:1,7:1
+	}
+	},
+	"ghostKills" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {"Thaye":2,"TheTwins":1,"Yurei":1,"Mimic":2,"Revenant":2,"Oni":2,"Goryo":1,"Yokai":0,"Jinn":1,"Raiju":1,"Banshee":0
+	}
+	},
+	"mostCommonGhosts" : {
+		"__type" : "System.Collections.Generic.Dictionary`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : {"Thaye":4,"TheTwins":2,"Yurei":1,"Mimic":3,"Revenant":3,"Oni":4,"Goryo":3,"Yokai":2,"Jinn":1,"Raiju":1,"Banshee":1
+	}
+	},
+	"ghostDistanceTravelled" : {
+		"__type" : "float",
+		"value" : 5529.97656
+	},
+	"amountOfGhostInteractions" : {
+		"__type" : "int",
+		"value" : 601
+	},
+	"doorsMoved" : {
+		"__type" : "int",
+		"value" : 166
+	},
+	"objectsUsed" : {
+		"__type" : "int",
+		"value" : 117
+	},
+	"lightsSwitched" : {
+		"__type" : "int",
+		"value" : 19
+	},
+	"fuseboxToggles" : {
+		"__type" : "int",
+		"value" : 8
+	},
+	"amountOfGhostEvents" : {
+		"__type" : "int",
+		"value" : 29
+	},
+	"abilitiesUsed" : {
+		"__type" : "int",
+		"value" : 69
+	},
+	"roomChanged" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"timeInFavouriteRoom" : {
+		"__type" : "float",
+		"value" : 14812.6572
+	},
+	"amountOfGhostHunts" : {
+		"__type" : "int",
+		"value" : 25
+	},
+	"totalHuntTime" : {
+		"__type" : "float",
+		"value" : 113.423
+	},
+	"LastDifficulty" : {
+		"__type" : "Difficulty,Assembly-CSharp",
+		"value" : {
+		"_ES3Ref" : "1347081152867496725",
+		"difficulty" : 6,
+		"nameKey" : "Contract_Custom",
+		"descriptionKey" : "Difficulty_NightmareDescription",
+		"sanityPillRestorationAmount" : 25,
+		"startingSanity" : 100,
+		"sanityDrain" : 2,
+		"sprinting2" : 1,
+		"flashlights" : true,
+		"loseItemsOnDeath" : true,
+		"playerSpeed" : 1,
+		"evidenceGiven" : 2,
+		"changingFavouriteRoom" : 2,
+		"interactionAmount" : 1,
+		"eventFrequency" : 3,
+		"huntDuration" : 3,
+		"gracePeriod" : 1,
+		"fingerprintChance" : 1,
+		"fingerprintDuration" : 120,
+		"friendlyGhost" : false,
+		"killsExtendHuntDuration" : 1,
+		"roamingFrequency" : 3,
+		"ghostSpeed" : 1,
+		"setupTime" : 0,
+		"selectedWeather" : 0,
+		"amountOfDoorsOpen" : 3,
+		"amountOfHidingPlaces" : 1,
+		"sanityMonitor" : false,
+		"activityMonitor" : false,
+		"fuseBoxVisibleOnMap" : false,
+		"fuseBoxStartPower" : 1,
+		"cursedPossessionsQuantity" : 1,
+		"chosenCursedItems" : [
+			0,0,0,0,0,0,0
+		],
+		"overrideMultiplier" : -1,
+		"actualWeather" : 0,
+		"actualCursedItems" : [
+			0,0,0,0,0,0,0
+		],
+		"itemTiers" : [
+			
+		],
+		"challengeMap" : null
+	}
+	},
+	"daily2Received" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"NewLevel" : {
+		"__type" : "int",
+		"value" : 13
+	},
+	"daily4Variant" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily7Variant" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily11Variant" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily1Received" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"VideoCamera0" : {
+		"__type" : "int",
+		"value" : 3
+	},
+	"daily0Received" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"PhotoCameraTierOneUnlocked" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"PhotoCameraTierOneUnlockOwned" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"PhotoCamera0" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"GhostWritingBook0" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"DOTSProjector0" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"VideoCamera1" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"UVLight1" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily3Received" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"MotionSensorTierOneUnlocked" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"MotionSensorTierOneUnlockOwned" : {
+		"__type" : "bool",
+		"value" : true
+	},
+	"SpiritBox0" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Thermometer0" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily1Variant" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"daily14Variant" : {
+		"__type" : "int",
+		"value" : 0
+	},
+	"OuijasFound" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Bone4" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"Bone11" : {
+		"__type" : "int",
+		"value" : 2
+	},
+	"UVLight0" : {
+		"__type" : "int",
+		"value" : 1
+	},
+	"MotionSensor0" : {
+		"__type" : "int",
+		"value" : 1
+	}
+}

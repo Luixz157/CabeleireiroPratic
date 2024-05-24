@@ -1,0 +1,51 @@
+//Titulos
+
+//Cor preto
+.Title-heading-2-black {
+    font-family: 'Inter',sans-serif;
+    font-size: 3rem;
+    font-style: italic;
+    font-weight: 300px;
+    color: var(--color-black);
+}
+.Title-heading-3-black {
+    font-family: 'Inter',sans-serif;
+    font-size: 2rem;
+    font-style: italic;
+    font-weight: 300;
+    color: var(--color-black);
+}
+
+//Textos
+
+.Text-24-black {
+    font-family: 'Inter',sans-serif;
+    font-size: 1.5rem;
+    color: var(--color-black);
+}
+
+
+
+//Titulos
+
+//Cor branco
+.Title-heading-2-white {
+    font-family: 'Inter',sans-serif;
+    font-size: 4rem;
+    color: var(--color-white);
+}
+
+.Title-heading-3-white {
+    font-family: 'Inter',sans-serif;
+    font-size: 2.5rem;
+    font-weight: 300;
+    color: var(--color-white);
+}
+
+//Textos
+
+.Text-24-white {
+    font-family: 'Inter',sans-serif;
+    font-size: 1.5rem;
+    color: var(--color-white);
+}
